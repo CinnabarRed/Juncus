@@ -32,3 +32,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 Red
 Orange
 Yellow
+Green
+Green
+Green
